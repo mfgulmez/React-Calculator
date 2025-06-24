@@ -10,6 +10,5 @@ A simple and responsive calculator built with React. This application performs b
 - Memory function placeholders (MC, M+, M-, MR - not yet implemented)
 
 ## Footages
-![image](https://github.com/user-attachments/assets/50b5f850-1efc-4ca4-ab04-a82836824814)
-![image](https://github.com/user-attachments/assets/ad9b4d48-1f2d-4a50-bc22-fec784ae45b5)
-
+![image](https://github.com/user-attachments/assets/920cd785-ddc6-47f4-8667-39633e3f8383)
+![image](https://github.com/user-attachments/assets/76aa8a17-e40e-4a1f-afb1-e63e036c3507)
